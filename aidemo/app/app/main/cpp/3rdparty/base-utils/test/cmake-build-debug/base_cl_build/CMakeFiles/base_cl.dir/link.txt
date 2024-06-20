@@ -1,2 +1,0 @@
-/usr/bin/ar qc libbase_cl.a CMakeFiles/base_cl.dir/src/cl_info.cpp.o
-/usr/bin/ranlib libbase_cl.a
