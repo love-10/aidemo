@@ -1,0 +1,11 @@
+/home/dm/app/clion-2020.1.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /media/dm/新加卷/SDK/base-utils/test
+-- OPENMP FOUND
+-- BASE_FILTER_ENABLE:ON
+-- BASE_OPENMP_ENABLE:ON
+-- DIR_SRCS = src/debug.cpp;src/file_utils.cpp;src/image_utils.cpp;src/math_utils.cpp;src/filter/kalman_filter.cpp;src/filter/mean_filter.cpp;src/filter/tracking_flow.cpp
+-- BASE_ROOT = ../
+-- DIR_SRCS = src/cl_info.cpp
+-- BASE_CL = contrib/base_cl
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /media/dm/新加卷/SDK/base-utils/test/cmake-build-debug

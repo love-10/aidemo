@@ -1,0 +1,14 @@
+/media/dm/新加卷/SDK/base-utils/test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/dm/新加卷/SDK/base-utils/test/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/dm/新加卷/SDK/base-utils/test/cmake-build-debug/CMakeFiles/stereo_match_bm.dir
+/media/dm/新加卷/SDK/base-utils/test/cmake-build-debug/CMakeFiles/filter_test.dir
+/media/dm/新加卷/SDK/base-utils/test/cmake-build-debug/CMakeFiles/openmp_test.dir
+/media/dm/新加卷/SDK/base-utils/test/cmake-build-debug/CMakeFiles/stereo_match_sgbm.dir
+/media/dm/新加卷/SDK/base-utils/test/cmake-build-debug/CMakeFiles/main.dir
+/media/dm/新加卷/SDK/base-utils/test/cmake-build-debug/CMakeFiles/opencl_test.dir
+/media/dm/新加卷/SDK/base-utils/test/cmake-build-debug/base_build/CMakeFiles/rebuild_cache.dir
+/media/dm/新加卷/SDK/base-utils/test/cmake-build-debug/base_build/CMakeFiles/edit_cache.dir
+/media/dm/新加卷/SDK/base-utils/test/cmake-build-debug/base_build/CMakeFiles/base_utils.dir
+/media/dm/新加卷/SDK/base-utils/test/cmake-build-debug/base_cl_build/CMakeFiles/rebuild_cache.dir
+/media/dm/新加卷/SDK/base-utils/test/cmake-build-debug/base_cl_build/CMakeFiles/edit_cache.dir
+/media/dm/新加卷/SDK/base-utils/test/cmake-build-debug/base_cl_build/CMakeFiles/base_cl.dir
